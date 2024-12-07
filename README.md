@@ -10,6 +10,8 @@ The study area is Enugu Metropolis and its surrounding environs in southeastern 
 As of the most recent census data, the population of Enugu is estimated to be over 820,000 within the city limits, with the larger metropolitan area housing over 1 million residents. This growing population is a key driver of the rapid urbanization observed in the region, further underscoring the importance of this study in understanding the dynamics of land use and land cover changes.
 
 
+
+
 #### Key Objectives:
 Mapping LULC Changes: Generate accurate LULC maps for 1990, 2000, 2010, and 2023.
 Change Detection: Quantify changes in land cover classes over time.
